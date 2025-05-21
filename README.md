@@ -28,6 +28,7 @@
 - 📺 [YouTube 채널](https://www.youtube.com/@choiscience)
 - 💬 [카카오 채널 상담](https://pf.kakao.com/_ximxdfG)
 - 📦 [유튜브 강의 링크 모음 보기](./youtube_links.md)
+- 🎧 [오디오 강의 모음 보기](./podcasts.md)
 
 ---
 

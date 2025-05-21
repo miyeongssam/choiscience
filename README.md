@@ -27,7 +27,7 @@
 - 🌐 [학원 홈페이지](https://www.choisci.com)
 - 📺 [YouTube 채널](https://www.youtube.com/@choiscience)
 - 💬 [카카오 채널 상담](https://pf.kakao.com/_ximxdfG)
-- 📦 [유튜브 강의 링크 모음 보기](./유튜브_강의링크_모음.md)
+- 📦 [유튜브 강의 링크 모음 보기](./youtube_links.md)
 
 ---
 
